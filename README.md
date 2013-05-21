@@ -13,27 +13,5 @@ It's not like "Enter no: 1
 
 ======================================================================
 
-Usage :
-    Basic Calculation :
-           format >>> 2 + 3
-                  >>> 5.0
-           use spaces in between numbers and operators.
-    Functions :
-           format >>> sqrt(-10)
-                  >>> 3.1622776601683795j
-    Converter : binary to decimal , octal to decimal , hex to decimal
-           format >>> 101 -b
-                  >>> 5
-           replace with '-o' '-h'
-    Type >>> list
-           to see all available functions.
-    Type >>> c
-           to clear.
-    Type >>> exit
-           to exit.
-    Type >>> help
-           to get help.
-    If you type out of range , only typed string will return.
-         >>> Mr.Geek
-         Mr.Geek
+Please see the manual.txt for more informations.
 ====================================================================
